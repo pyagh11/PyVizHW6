@@ -23,7 +23,8 @@ Analysis of San Fran Neighborhoods: The goal of this dashboard is to provide cha
 # map of neighborhoods
 ![image](/images6/neighborhoodmap.png)
 
-The final dashboard is as below:
+# Final multi-tab dashboard 
+
 ![image](/images6/7dashboard.png)
 
 
