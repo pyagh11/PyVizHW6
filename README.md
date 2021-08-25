@@ -1,7 +1,7 @@
 # PyVizHW6
 Analysis of San Fran Neighborhoods: The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.  Below are the resulting graphics to help guide. 
 
-## Python Graphics ##
+## Graphics ##
 # Average housing units per year
 ![image](/images6/1avghousingunitsperyear.png)
 # Average sale price per square foot
@@ -16,9 +16,9 @@ Analysis of San Fran Neighborhoods: The goal of this dashboard is to provide cha
 ![image](/images6/5aint.png)
 # interactive line chart of the average monthly rent by neighborhood, displaying neighboorhood
 ![image](/images6/5binteractive.png)
-# Interactive visualization with a dropdown selector for the neighborhood, featuring a side-by-side comparison of average price per square foot versus average monthly rent by year.
+# Interactive visualization with a dropdown selector for the neighborhood, featuring a side-by-side comparison of average price per square foot versus average monthly rent by year.#
 ![image](/images6/6sidebysid.png)
-# Top 10 Most Expensive Neighborhoods*
+# Top 10 Most Expensive Neighborhoods
 ![bar-chart](/images6/Top10.png)
 # map of neighborhoods
 ![image](/images6/neighborhoodmap.png)
