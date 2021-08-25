@@ -16,7 +16,7 @@ Analysis of San Fran Neighborhoods: The goal of this dashboard is to provide cha
 ![image](/images6/5aint.png)
 # interactive line chart of the average monthly rent by neighborhood, displaying neighboorhood
 ![image](/images6/5binteractive.png)
-# Interactive visualization with a dropdown selector for the neighborhood, featuring a side-by-side comparison of average price per square foot versus average monthly rent by year.#
+# Interactive visualization with a dropdown selector for the neighborhood, featuring a side-by-side comparison of average price per square foot versus average monthly rent by year.
 ![image](/images6/6sidebysid.png)
 # Top 10 Most Expensive Neighborhoods
 ![bar-chart](/images6/Top10.png)
